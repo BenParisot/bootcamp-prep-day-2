@@ -1,0 +1,27 @@
+body {
+    color: red;
+    background-color: blanchedalmond;
+}
+
+img {
+    border: 10px solid white;
+    padding: 25px;
+}
+
+li {
+    font-weight: bold;
+}
+
+header {
+    /* position: fixed; */
+    margin-bottom: 25px;
+}
+
+main {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.holder-type {
+    font-style: italic;
+}
